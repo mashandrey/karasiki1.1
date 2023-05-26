@@ -4,10 +4,12 @@ body {
 
 header {
    background-color: #87A080;
+   padding: 5px;
 }
 
 footer {
    background-color: #87A080;
+   padding: 5px;
 }
 
 h1 {
